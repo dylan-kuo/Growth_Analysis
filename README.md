@@ -5,11 +5,14 @@ Growth analytics is the practice of evaluating data related to user acquisition,
 --- 
 This repository contains a series of growth analysis by measuring popular Metrics as below.
 
+- [Customer Rention Rate](https://github.com/dylan-kuo/Growth_Analysis/blob/master/Customer_Retention_Rate.ipynb)
+
+- [Customer Segmentation From RFM Value](https://nbviewer.jupyter.org/github/dylan-kuo/Growth_Analysis/blob/master/Customer_Segmentation_From_RFM_Value.ipynb)
+
 - [Monthly Active Customer](https://nbviewer.jupyter.org/github/dylan-kuo/Growth_Analysis/blob/master/Monthly_Active_Customers.ipynb)
 
 - [Monthly Revenue](https://nbviewer.jupyter.org/github/dylan-kuo/Growth_Analysis/blob/master/Monthly_Revenue.ipynb)
 
-- [Customer Segmentation From RFM Value](https://nbviewer.jupyter.org/github/dylan-kuo/Growth_Analysis/blob/master/Customer_Segmentation_From_RFM_Value.ipynb)
 
 
 Data Source:
