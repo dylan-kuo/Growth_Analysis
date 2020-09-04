@@ -16,4 +16,4 @@ This repository contains a series of growth analysis by measuring popular Metric
 
 
 Data Source:
-- [Online Retail Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail)
+- [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
